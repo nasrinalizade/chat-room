@@ -1,19 +1,19 @@
 # chat-room
 
-# springboot-WebSocket-ReactJs
+# Springboot-WebSocket-ReactJs
 
 
 #	Server Technologies
-Java 8
-SpringBoot
-MongoDB
-Maven
+1. Java 8
+2. SpringBoot
+3. MongoDB
+4. Maven
 
 
 #	Client Technologies
-ReactJs
-Bootstrap
-materialUI
+1. ReactJs
+2. Bootstrap
+3. materialUI
 
 
 
